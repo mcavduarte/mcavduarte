@@ -1,32 +1,19 @@
 # Marcos Duarte
 
-**Founder & CEO of [Insight 4 Business](https://github.com/insight4business)**: AI and cybersecurity for companies.
+**Founder & CEO of [Insight 4 Business](https://github.com/insight4business).** I run **Head of Cyber as a Service (vCISO)**: senior security leadership for companies that need a head of security without a full-time hire, so they can answer customer security questionnaires, prepare for ISO 27001 and keep the security program moving.
 
-I lead the team that operates security, cloud and applied AI for companies in Brazil and the United States, and I still build our procedures myself.
+**Fundador e CEO da Insight 4 Business.** Atuo como **Head of Cyber as a Service (vCISO)**: liderança sênior de segurança para empresas que precisam de um head de segurança sem contratação em tempo integral. Foco no Brasil (LGPD, ISO 27001, questionários de clientes), com projetos também nos EUA e no Reino Unido.
 
-**Head of Cyber as a Service:** senior security leadership for companies that need a head of security without a full-time hire. Strategy, risk and compliance, security operations oversight and executive reporting, with a team behind it.
+## Track record
 
-**Fundador e CEO da Insight 4 Business.** IA e cibersegurança para empresas, com operação no Brasil e nos EUA. **Head Cyber as a Service:** liderança sênior de segurança para empresas que precisam de um head de segurança sem contratação em tempo integral.
+16+ years in IT and information security. In a previous security leadership role (manager and tech lead, 2021 to 2025):
 
-## What the company does
+- Built a Microsoft Sentinel and Defender XDR detection program: 204 use cases and 23 SOAR playbooks. Median incident resolution fell from 9.5 days to about 1 day across 6,700+ incidents.
+- Reduced critical endpoint vulnerabilities from 419 to 6 in 45 days.
+- Led the ISMS to ISO 27001 certification in 2023 and renewed it in 2024.
 
-| Front | Focus |
-|---|---|
-| **Cybersecurity** | SOC, detection engineering, governance and compliance, vulnerability and identity management, data protection, penetration testing, threat intelligence |
-| **Applied AI** | AI in business processes, chatbots, and security and governance for AI applications |
-| **Cloud operations** | Azure, AWS, Microsoft 365 and Google Cloud: engineering, security and cost, as code |
+I still build what I recommend: the procedures are open at [github.com/insight4business](https://github.com/insight4business), rebuilt from scratch and free of client data.
 
-## Open work
+## Talk to me
 
-The procedures we use in delivery, rebuilt from scratch and free of client data, live in the [insight4business](https://github.com/insight4business) organization:
-
-- [detection-engineering](https://github.com/insight4business/detection-engineering): detection rules (KQL, SPL) and detection-as-code, organised by technology.
-- [devsecops](https://github.com/insight4business/devsecops): Terraform modules with OIDC, CI/CD pipelines and security gates.
-- [security-operations](https://github.com/insight4business/security-operations): incident response, identity and access, vulnerability management.
-- [cloud-operations](https://github.com/insight4business/cloud-operations): scripts and queries for Azure, Microsoft 365 and endpoints.
-
-Map of all repositories: [cyber-templates](https://github.com/insight4business/cyber-templates).
-
-## Work with us
-
-[insight4biz.com](https://insight4biz.com)
+[insight4biz.com](https://insight4biz.com) · [LinkedIn](https://www.linkedin.com/in/mcavalcantid)
