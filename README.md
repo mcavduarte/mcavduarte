@@ -4,7 +4,9 @@
 
 I lead the team that operates security, cloud and applied AI for companies in Brazil and the United States, and I still build our procedures myself.
 
-**Fundador e CEO da Insight 4 Business.** IA e cibersegurança para empresas, com operação no Brasil e nos EUA.
+**Head of Cyber as a Service:** senior security leadership for companies that need a head of security without a full-time hire. Strategy, risk and compliance, security operations oversight and executive reporting, with a team behind it.
+
+**Fundador e CEO da Insight 4 Business.** IA e cibersegurança para empresas, com operação no Brasil e nos EUA. **Head Cyber as a Service:** liderança sênior de segurança para empresas que precisam de um head de segurança sem contratação em tempo integral.
 
 ## What the company does
 
