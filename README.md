@@ -6,7 +6,7 @@
 
 ## Track record
 
-16+ years in IT and information security. In a previous security leadership role (manager and tech lead, 2021 to 2025):
+16+ years in IT and information security. In a previous security leadership role (Technical Manager, then Head of Information Security, April 2021 to April 2025):
 
 - Built a Microsoft Sentinel and Defender XDR detection program: 204 use cases and 23 SOAR playbooks. Median incident resolution fell from 9.5 days to about 1 day across 6,700+ incidents.
 - Reduced critical endpoint vulnerabilities from 419 to 6 in 45 days.
