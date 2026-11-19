@@ -16,4 +16,4 @@ I still build what I recommend: the procedures are open at [github.com/insight4b
 
 ## Talk to me
 
-[insight4biz.com](https://insight4biz.com) · [LinkedIn](https://www.linkedin.com/in/mcavalcantid)
+[insight4biz.com](https://insight4biz.com) · [LinkedIn](https://www.linkedin.com/in/mcavduarte)
