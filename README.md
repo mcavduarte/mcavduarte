@@ -1,19 +1,21 @@
 # Marcos Duarte
 
-**Founder & CEO of [Insight 4 Business](https://github.com/insight4business).** I run **Head of Cyber as a Service (vCISO)**: senior security leadership for companies that need a head of security without a full-time hire, so they can answer customer security questionnaires, prepare for ISO 27001 and keep the security program moving.
+Cloud and cybersecurity professional with 16+ years in IT and information security. I work on security leadership, detection engineering, SOC, DevSecOps and AI security.
 
-**Fundador e CEO da Insight 4 Business.** Atuo como **Head of Cyber as a Service (vCISO)**: liderança sênior de segurança para empresas que precisam de um head de segurança sem contratação em tempo integral. Foco no Brasil (LGPD, ISO 27001, questionários de clientes), com projetos também nos EUA e no Reino Unido.
+Profissional de nuvem e cibersegurança, com mais de 16 anos em TI e segurança da informação. Atuo com liderança em segurança, engenharia de detecção, SOC, DevSecOps e segurança de IA.
 
 ## Track record
 
-16+ years in IT and information security. In a previous security leadership role (Technical Manager, then Head of Information Security, April 2021 to April 2025):
+Technical Manager, then Head of Information Security (April 2021 to April 2025):
 
 - Built a Microsoft Sentinel and Defender XDR detection program: 204 use cases and 23 SOAR playbooks. Median incident resolution fell from 9.5 days to about 1 day across 6,700+ incidents.
 - Reduced critical endpoint vulnerabilities from 419 to 6 in 45 days.
 - Led the ISMS to ISO 27001 certification in 2023 and renewed it in 2024.
 
-I still build what I recommend: the procedures are open at [github.com/insight4business](https://github.com/insight4business), rebuilt from scratch and free of client data.
+## Open work
 
-## Talk to me
+Security procedures, scripts and templates, rebuilt from scratch and free of client data, are open at [github.com/insight4business](https://github.com/insight4business).
 
-[insight4biz.com](https://insight4biz.com) · [LinkedIn](https://www.linkedin.com/in/mcavduarte)
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mcavduarte)
