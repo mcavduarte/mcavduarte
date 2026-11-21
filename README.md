@@ -2,8 +2,6 @@
 
 Cloud and cybersecurity professional with 16+ years in IT and information security. I work on security leadership, detection engineering, SOC, DevSecOps and AI security.
 
-Profissional de nuvem e cibersegurança, com mais de 16 anos em TI e segurança da informação. Atuo com liderança em segurança, engenharia de detecção, SOC, DevSecOps e segurança de IA.
-
 ## Track record
 
 Technical Manager, then Head of Information Security (April 2021 to April 2025):
